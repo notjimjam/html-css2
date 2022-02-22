@@ -1,0 +1,23 @@
+body {
+    margin:0;
+    background-color:lightgrey ;
+}
+header {
+    width: 100vw;
+    height: 20vh;
+    background-color: dimgray;
+}
+section {
+    width: 80vw;
+    height: 70vh;
+    margin: 0vw 10vw;
+    background-color: white;
+}
+
+footer {
+    width:80vw;
+    height: 10vh;
+    margin: 0vw 10vw;
+    background-color: black;
+
+}
